@@ -8,7 +8,7 @@ tested with node.js 12.18.3
 npm install hyperspace -g
 hyperspace --host 127.0.0.1
 
-git clone https://github.com/timcash/hyperspace-demo
+git clone https://github.com/timcash/hyperspace-demo.git
 
 cd hyperspace demo
 
@@ -22,7 +22,7 @@ node writer.js
 npm install hyperspace -g
 hyperspace --host 127.0.0.1
 
-git clone https://github.com/timcash/hyperspace-demo
+git clone https://github.com/timcash/hyperspace-demo.git
 
 cd hyperspace demo
 
