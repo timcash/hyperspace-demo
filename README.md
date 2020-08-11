@@ -38,4 +38,4 @@ npm install
 node reader.js
 ```
 
-![Demo](https://github.com/timcash/hyperspace-demo/master/demo.png "Demo")
+![Demo](https://github.com/timcash/hyperspace-demo/blob/master/demo.png "Demo")
