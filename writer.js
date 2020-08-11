@@ -19,6 +19,7 @@ async function main() {
   };
   await client.network.configure(feed.discoveryKey, network_options);
   feed.on("peer-add", console.log);
+  feed.createReadStream({ live: true }).on("data", log_stream);
 
   for await (const value of sleep_tick(1000, 500)) {
     feed.append(Buffer.from(value.toString()));
