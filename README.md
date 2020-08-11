@@ -37,3 +37,5 @@ cd hyperspace-demo
 npm install
 node reader.js
 ```
+
+![Demo](https://github.com/timcash/hyperspace-demo/master/demo.png "Demo")
