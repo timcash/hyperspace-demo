@@ -9,7 +9,7 @@ npm install hyperspace -g
 hyperspace --host 127.0.0.1
 ```
 
-### On the writer host shell two
+### On the reader host shell two
 
 ```
 git clone https://github.com/timcash/hyperspace-demo.git
